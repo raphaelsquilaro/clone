@@ -1,4 +1,4 @@
-# clone# 🔄 Teste de Clone com Git Bash
+🔄 Teste de Clone com Git Bash
 
 Este repositório foi criado com o objetivo de praticar comandos básicos do Git utilizando o Git Bash.
 
